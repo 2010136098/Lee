@@ -2,3 +2,4 @@ name : Yang ji-seong
 age : 24
 sex : male
 student id : 2013136066
+hobby : soccer
