@@ -1,0 +1,5 @@
+name : Shin Chan Uk
+age : 24
+sex : male
+hobby : reading books
+
