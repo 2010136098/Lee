@@ -10,10 +10,11 @@ Hello I'm  *JaeWoo*
 
 [link][naver]
 [naver]: http://naver.com
-weight hight
- :---\ ---:
-179\ 80
 
+weight   |  hight
+-------- | ---
+  80     | 179
+  
 life 
 st=> start: Go
 e =>end
