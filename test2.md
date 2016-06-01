@@ -4,9 +4,9 @@ Hello I'm  *JaeWoo*
 --
 1. Body
 -
-2. Life
+2. code
 -
-**Body table**
+-Body table
 
 weight   |  hight
 -------- | ---
@@ -21,7 +21,7 @@ weight   |  hight
 [daum][daum]
 [daum]: http://daum.net 
 
-**life**
++code
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
