@@ -17,8 +17,9 @@ weight   |  hight
 **Link**
 [naver](http://naver.com)
 
-[link][naver]
-[naver]: http://naver.com 
+[link][daum]
+[daum]: http://daum.net 
+
 life 
 st=> start: Go
 e =>end
