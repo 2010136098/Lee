@@ -22,11 +22,12 @@ weight   |  hight
 [daum]: http://daum.net 
 
 **life**
-st=> start: Go
-e =>end
-op =>operation : My Operation
-cond => condition: Yes or No?
-
-st ->op ->cond
-cond(yes) ->e
-cond(no -> op
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
