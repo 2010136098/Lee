@@ -15,7 +15,7 @@ weight   |  hight
 
 >naver gogo
 **Link**
-[naver](http://naver.com)
+[go the the naver](http://naver.com)
 
 >daum gogo>gogo
 [daum][daum]
