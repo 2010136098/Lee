@@ -17,7 +17,7 @@ weight   |  hight
 **Link**
 [naver](http://naver.com)
 
-[link][daum]
+[daum][daum]
 [daum]: http://daum.net 
 
 life 
