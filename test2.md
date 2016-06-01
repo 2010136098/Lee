@@ -6,7 +6,7 @@ Hello I'm  *JaeWoo*
 -
 2. code
 -
--Body table
+- Body table
 
 weight   |  hight
 -------- | ---
@@ -21,7 +21,7 @@ weight   |  hight
 [daum][daum]
 [daum]: http://daum.net 
 
-+code
++ code
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
