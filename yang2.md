@@ -14,6 +14,8 @@ Hello my name is jiseong . i'm in **Dasan**
 
 My facebook url is (https://www.facebook.com/profile.php?id=100004650484815)
 
+korea start page ![naver](http://platum.kr/wp-content/uploads/2016/01/naver2.png)
+
 
 + code
 ```javascript
