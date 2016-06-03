@@ -15,6 +15,17 @@ Hello my name is jiseong . i'm in **Dasan**
 My facebook url is (https://www.facebook.com/profile.php?id=100004650484815)
 
 
++ code
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 
 
 
